@@ -47,10 +47,6 @@ JIRA • Confluence • Excel (Advanced)
 
 ---
 
-## 📈 Coming Soon
-
-- 🎯 [Employee Attrition ML Prediction](#): Business-focused machine learning pipeline using HR analytics data.
-- 📉 [Sales Forecasting Model](#): Time-series forecasting with SARIMA to predict future sales trends.
 
 ---
 
