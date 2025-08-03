@@ -29,27 +29,6 @@ JIRA • Confluence • Excel (Advanced)
 
 ---
 
-## 📊 Highlighted Projects
-
-### 🔧 ADAS Performance Evaluation (Continental AG)
-- Developed statistical analysis and evaluation algorithms for Adaptive Cruise Control (ACC) systems.
-- Processed and analyzed over 100 real-world sensor datasets using Python & MTS.
-- Built 15+ Power BI dashboards for functional comparison and visualization.
-
-### 🏥 Insurance Claim Analytics
-- Designed a relational database schema to connect customer, policy, and claim data.
-- Wrote SQL queries to analyze claim frequency and cost per policy type.
-- Implemented indexing and access control for optimized performance and security.
-
-### 🐎 Biomechanical Simulation of Equine Skeletal Model
-- Customized C++ code in OpenSim to simulate skeletal dynamics from CT scan-based STL files.
-- Optimized mesh alignment, coordinate transformations, and dynamic joint configuration.
-
----
-
-
----
-
 ## 📫 Let's Connect
 
 📧 Email: siddhardh23@gmail.com  
