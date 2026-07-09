@@ -3,7 +3,7 @@
 🎯 MSc in Mathematical Modeling & Optimization  
 📍 Based in Koblenz, Germany  
 🔍 Focused on turning complex data into actionable insights using Python, SQL, Power BI & Machine Learning  
-💬 Languages: English (C1), German (B1), Hindi, Telugu
+💬 Languages: English (C1), German (B2), Hindi, Telugu
 
 ---
 
